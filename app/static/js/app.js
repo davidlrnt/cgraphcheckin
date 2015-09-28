@@ -57,7 +57,7 @@ angular.module('civic-graph', ['ui.bootstrap', 'leaflet-directive', 'ngAnimate']
         if (entityID) {entityID = parseInt(entityID);};
         return entityID
     }
-    $http.get('api/entities')
+    $http.get('http://172.31.98.241:5000/api/entities')
         .success(function(data) {
             $scope.entities = data.nodes;
             var locations = _.uniq(_.pluck(_.flatten(_.pluck($scope.entities, 'locations')), 'locality'));
@@ -204,7 +204,7 @@ angular.module('civic-graph', ['ui.bootstrap', 'leaflet-directive', 'ngAnimate']
         });
     }
 
-    $http.get('api/categories')
+    $http.get('http://172.31.98.241:5000/api/categories')
         .success(function(data) {
             $scope.categories = data.categories;
         });
@@ -381,7 +381,7 @@ angular.module('civic-graph', ['ui.bootstrap', 'leaflet-directive', 'ngAnimate']
 
     $scope.savetoDB = function() {
         $scope.updating = true;
-        $http.post('api/save', {'entity': $scope.editEntity})
+        $http.post('http://172.31.98.241:5000/api/save', {'entity': $scope.editEntity})
             .success(function(response) {
                 $scope.setEntities(response.nodes);
                 $scope.setEntityID($scope.editEntity.id);
@@ -417,7 +417,7 @@ angular.module('civic-graph', ['ui.bootstrap', 'leaflet-directive', 'ngAnimate']
 
     $scope.showLicense =  true;
     $scope.$on('entitiesLoaded', function() {
-        $http.get('api/connections').
+        $http.get('http://172.31.98.241:5000/api/connections').
         success(function(data) {
             _.forEach(_.keys(data.connections), function(type) { $scope.connections[type] = []; });
             _.forEach(data.connections, function(connections, type) {

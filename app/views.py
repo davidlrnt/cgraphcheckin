@@ -4,6 +4,9 @@ from app.models import Entity, Category, Keyperson, Revenue, Expense, Relation, 
 from database import db
 from api import update
 import json
+from flask.ext.cors import CORS
+cors = CORS(app)
+
 
 @app.route('/api/entities')
 @cache.memoize(timeout=None)
