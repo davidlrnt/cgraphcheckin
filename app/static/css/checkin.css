@@ -194,3 +194,16 @@ p{
 	padding: 5%;
 	border-radius: 5%;
 }
+#addedCollaborators {
+	color: #66ad1c;
+	font-style: italic;
+	font-size: 0.8em;
+}
+#addedCollaborators a{
+	color: #66ad1c;
+	font-style: italic;
+	font-size: 0.8em;
+}
+.last {
+	display: hidden;
+}

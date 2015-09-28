@@ -4645,3 +4645,691 @@ CORS request received with 'Origin' http://0.0.0.0:8080
 The request's Origin header matches. Sending CORS headers.
 Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
 CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://172.31.98.241:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://172.31.98.241:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://172.31.98.241:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://172.31.98.241:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, x-requested-with'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+Request to '/api/connections' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/save' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, content-type'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+SAVING
+{"entity":{"categories":[],"collaborations":[],"data_given":[],"data_received":[],"employees":null,"employments":[],"expenses":[],"followers":null,"grants_given":[],"grants_received":[],"id":null,"influence":"Global","investments_made":[],"investments_received":[],"key_people":[],"locations":[{"full_address":"Brook, IN","id":null,"address_line":null,"locality":"Brook","district":"IN","postal_code":null,"country":"United States","country_code":"US","coordinates":[40.8656005859375,-87.3642807006836]}],"name":"google","nickname":null,"relations":[],"revenues":[],"twitter_handle":null,"type":"Non-Profit","url":null,"index":null,"weight":null,"x":null,"y":null,"px":null,"py":null}}
+ADDING NEW ENTITY google
+UPDATING ENTITY google
+Request to '/api/save' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/entities' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/categories' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping
+Request to '/api/save' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080'), ('Access-Control-Allow-Headers', u'accept, content-type'), ('Access-Control-Allow-Methods', 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT')])
+CORS have been already evaluated, skipping
+SAVING
+{"entity":{"categories":[],"collaborations":[{"entity":"CivicLab","id":null,"details":null,"entity_id":7},{"entity":"New York City Economic Development Corporation","id":null,"details":null,"entity_id":6},{"entity":"Harvard Kennedy School Center for Democratic Governance and Innovation","id":null,"details":null,"entity_id":13},{"entity":"Google","id":null,"details":null,"entity_id":276}],"data_given":[],"data_received":[],"employees":null,"employments":[{"entity":"google","id":null,"details":null}],"expenses":[],"followers":null,"grants_given":[],"grants_received":[],"id":null,"influence":"Global","investments_made":[],"investments_received":[],"key_people":[],"locations":[],"name":"David test","nickname":null,"relations":[],"revenues":[],"twitter_handle":null,"type":"Individual","url":null,"index":null,"weight":null,"x":null,"y":null,"px":null,"py":null}}
+ADDING NEW ENTITY David test
+UPDATING ENTITY David test
+Request to '/api/save' matches CORS resource '/*'. Using options: {'automatic_options': True, 'allow_headers': ['.*'], 'send_wildcard': False, 'intercept_exceptions': True, 'origins': ['.*'], 'vary_header': True, 'supports_credentials': False, 'resources': '/*', 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT'}
+CORS request received with 'Origin' http://0.0.0.0:8080
+The request's Origin header matches. Sending CORS headers.
+Settings CORS headers: MultiDict([('Access-Control-Allow-Origin', u'http://0.0.0.0:8080')])
+CORS have been already evaluated, skipping

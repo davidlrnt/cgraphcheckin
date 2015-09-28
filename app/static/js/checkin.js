@@ -355,7 +355,25 @@ angular.module('civic-graph-kiosk', ['ui.bootstrap', 'leaflet-directive', 'ngAni
         $scope.templateShown = false;
         connection.entity_id = entity.id;
     }
+    $scope.setCollaboration = function(entity, connection) {
+        $scope.templateShown = false;
+        $scope.addConnection($scope.editEntity.collaborations)
+        connection.entity_id = entity.id;
+        $scope.addConnectionTag(entity);
+    }
 
+    $scope.addConnectionTag = function (entity) {
+        console.log(entity.name);
+        console.log($scope.editEntity);
+        // var inputs = $('#collaborations :input');
+        // $('#addedCollaborators').append('<span>'+entity.name+'</span><a onclick="removeCollaboration('+'\''+entity.name+'\''+')">X</a>')
+        // inputs[0].remove();
+        // console.log(inputs[0]);
+
+    }
+    var removeCollaboration = function (a) {
+        console.log(a);
+    };
     $scope.addConnection = function(connections) {
         // Add an empty connection to edit if none exist.
         if (!_.some(connections, {'entity':'', 'id': null})) {
